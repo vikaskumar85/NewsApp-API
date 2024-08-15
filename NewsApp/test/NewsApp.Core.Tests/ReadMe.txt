@@ -1,0 +1,1 @@
+This is unit test project for NewsApp.Core project. This project contains functions to test NewsApp.Core services function.

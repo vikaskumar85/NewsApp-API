@@ -1,0 +1,1 @@
+This is the core project which is used by NewsApp.API project. This project contains models, services, interfaces & enumerators required for NewsApp. This project calls Hacker News API and return data to NewsApp.API

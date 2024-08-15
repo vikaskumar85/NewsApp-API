@@ -1,0 +1,1 @@
+This is unit test project for NewsApp.API project. This project contains functions to test NewsApp.API controller's api/function.

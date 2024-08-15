@@ -1,0 +1,1 @@
+This is the main .NET Core Web Api project. This project implements one Api: GetAll - stories/items returned from NewsApp.Core project.
